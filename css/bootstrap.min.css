@@ -14129,6 +14129,7 @@ fieldset:disabled .btn {
         .footer-contnet {
             padding: 0px 16px !important;
         }
+        
       }
 
     .cw-full{
@@ -14136,7 +14137,13 @@ fieldset:disabled .btn {
         margin: auto;
     }
 
+    @media (max-width: 992px) {
 
+    .justify-item-sm-center{
+        justify-items: center !important;
+      }
+
+    }
     .top-nav {
         height: 72px !important;
         align-content: center;
