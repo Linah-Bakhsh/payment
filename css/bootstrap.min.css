@@ -14126,6 +14126,9 @@ fieldset:disabled .btn {
         .c-content {
           padding: 0 16px !important;
         }
+        .footer-contnet {
+            padding: 0px 16px !important;
+        }
       }
 
     .cw-full{

@@ -3393,6 +3393,10 @@
   content: "\f44a";
 }
 
+.justify-item-center{
+  justify-items: center !important;
+}
+
 .bi-justify::before {
   content: "\f44b";
 }
